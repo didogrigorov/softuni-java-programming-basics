@@ -5,12 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a2c0536-8975-4621-b195-b6b15222f949" name="Changes" comment="Java Programming Basics - SoftUni">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Steps/src/DepositCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Steps/src/RadiansToDegrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Steps/src/USDtoBGN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Steps/src/VacationBookList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,9 +41,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DepositCalculator.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.RadiansToDegrees.executor": "Run",
+    "Application.USDtoBGN.executor": "Run",
+    "Application.VacationBookList.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -41,6 +62,59 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/First Steps" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FishTank">
+    <configuration name="BasketballEquipment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasketballEquipment" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FishTank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FishTank" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodDelivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FoodDelivery" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Repainting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Repainting" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuppliesForSchool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuppliesForSchool" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FishTank" />
+        <item itemvalue="Application.BasketballEquipment" />
+        <item itemvalue="Application.FoodDelivery" />
+        <item itemvalue="Application.Repainting" />
+        <item itemvalue="Application.SuppliesForSchool" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -56,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702749077091</updated>
-      <workItem from="1702749078116" duration="439000" />
+      <workItem from="1702749078116" duration="1042000" />
     </task>
     <task id="LOCAL-00001" summary="Java Programming Basics - SoftUni">
       <option name="closed" value="true" />
@@ -106,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702749486848</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Java Programming Basics - SoftUni">
+      <option name="closed" value="true" />
+      <created>1702749576756</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702749576756</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
