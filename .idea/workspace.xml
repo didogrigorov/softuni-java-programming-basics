@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a2c0536-8975-4621-b195-b6b15222f949" name="Changes" comment="Java Programming Basics - SoftUni">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First Steps/src/DepositCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First Steps/src/RadiansToDegrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First Steps/src/USDtoBGN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First Steps/src/VacationBookList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements/src/BonusScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements/src/TimePlusFifteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements/untitled1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,23 +37,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BasketballEquipment.executor": "Run",
     "Application.DepositCalculator.executor": "Run",
+    "Application.FishTank.executor": "Run",
+    "Application.FoodDelivery.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.RadiansToDegrees.executor": "Run",
+    "Application.Repainting.executor": "Run",
+    "Application.SumSeconds.executor": "Run",
+    "Application.SuppliesForSchool.executor": "Run",
+    "Application.TimePlusFifteen.executor": "Run",
+    "Application.TimePlusFifteenMinutes.executor": "Run",
     "Application.USDtoBGN.executor": "Run",
     "Application.VacationBookList.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "20",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/didogrigorov/Desktop/Programming Basics/untitled/src/Main.java",
+    "onboarding.tips.debug.path": "/home/didogrigorov/Desktop/Programming Basics/untitled/untitled1/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -69,7 +74,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FishTank">
+  <component name="RunManager" selected="Application.TimePlusFifteen">
     <configuration name="BasketballEquipment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasketballEquipment" />
       <module name="untitled" />
@@ -77,41 +82,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FishTank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FishTank" />
-      <module name="untitled" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FoodDelivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FoodDelivery" />
-      <module name="untitled" />
+    <configuration name="SumSeconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumSeconds" />
+      <module name="untitled1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Repainting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Repainting" />
-      <module name="untitled" />
+    <configuration name="TimePlusFifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimePlusFifteen" />
+      <module name="untitled1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuppliesForSchool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SuppliesForSchool" />
-      <module name="untitled" />
+    <configuration name="TimePlusFifteenMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimePlusFifteenMinutes" />
+      <module name="untitled1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FishTank" />
+        <item itemvalue="Application.TimePlusFifteen" />
+        <item itemvalue="Application.TimePlusFifteenMinutes" />
+        <item itemvalue="Application.SumSeconds" />
         <item itemvalue="Application.BasketballEquipment" />
-        <item itemvalue="Application.FoodDelivery" />
-        <item itemvalue="Application.Repainting" />
-        <item itemvalue="Application.SuppliesForSchool" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702749077091</updated>
-      <workItem from="1702749078116" duration="1042000" />
+      <workItem from="1702749078116" duration="4349000" />
     </task>
     <task id="LOCAL-00001" summary="Java Programming Basics - SoftUni">
       <option name="closed" value="true" />
@@ -188,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702749576756</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Java Programming Basics - SoftUni">
+      <option name="closed" value="true" />
+      <created>1702750396027</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702750396027</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
