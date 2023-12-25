@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a2c0536-8975-4621-b195-b6b15222f949" name="Changes" comment="Java Programming Basics - SoftUni">
-      <change afterPath="$PROJECT_DIR$/Conditional Statements/src/BonusScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional Statements/src/TimePlusFifteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional Statements/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements Advanced/Conditional Statements Advanced.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements Advanced/src/AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements Advanced/src/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements Advanced/src/MrMrs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements Advanced/src/NumberIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements Advanced/src/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements Advanced/src/WeekendOrWorkday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements/src/GodzillaKong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements/src/LunchBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements/src/Shopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements/src/ToyShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional Statements/src/WorldSwimmingRecord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -26,9 +35,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ZdPeLqQM2TlClBmBNKx0WY1dwO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,19 +47,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BasketballEquipment.executor": "Run",
+    "Application.BonusScore.executor": "Run",
+    "Application.DayOfWeek.executor": "Run",
     "Application.DepositCalculator.executor": "Run",
     "Application.FishTank.executor": "Run",
     "Application.FoodDelivery.executor": "Run",
+    "Application.GodzillaKong.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MrMrs.executor": "Run",
+    "Application.NumberIntervals.executor": "Run",
     "Application.RadiansToDegrees.executor": "Run",
     "Application.Repainting.executor": "Run",
+    "Application.Shop.executor": "Run",
+    "Application.Shopping.executor": "Run",
     "Application.SumSeconds.executor": "Run",
     "Application.SuppliesForSchool.executor": "Run",
     "Application.TimePlusFifteen.executor": "Run",
     "Application.TimePlusFifteenMinutes.executor": "Run",
+    "Application.ToyShop.executor": "Run",
     "Application.USDtoBGN.executor": "Run",
     "Application.VacationBookList.executor": "Run",
+    "Application.WeekendOrWorkday.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -62,8 +80,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/didogrigorov/Desktop/Programming Basics/untitled/untitled1/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "onboarding.tips.debug.path": "/home/didogrigorov/Desktop/Programming Basics/untitled/Conditional Statements Advanced/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -74,49 +92,49 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TimePlusFifteen">
-    <configuration name="BasketballEquipment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasketballEquipment" />
-      <module name="untitled" />
+  <component name="RunManager" selected="Application.Shop">
+    <configuration name="DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOfWeek" />
+      <module name="Conditional Statements Advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="untitled1" />
+    <configuration name="MrMrs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MrMrs" />
+      <module name="Conditional Statements Advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumSeconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumSeconds" />
-      <module name="untitled1" />
+    <configuration name="NumberIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberIntervals" />
+      <module name="Conditional Statements Advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimePlusFifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimePlusFifteen" />
-      <module name="untitled1" />
+    <configuration name="Shop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shop" />
+      <module name="Conditional Statements Advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimePlusFifteenMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimePlusFifteenMinutes" />
-      <module name="untitled1" />
+    <configuration name="WeekendOrWorkday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekendOrWorkday" />
+      <module name="Conditional Statements Advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TimePlusFifteen" />
-        <item itemvalue="Application.TimePlusFifteenMinutes" />
-        <item itemvalue="Application.SumSeconds" />
-        <item itemvalue="Application.BasketballEquipment" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Shop" />
+        <item itemvalue="Application.NumberIntervals" />
+        <item itemvalue="Application.MrMrs" />
+        <item itemvalue="Application.WeekendOrWorkday" />
+        <item itemvalue="Application.DayOfWeek" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +153,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702749077091</updated>
-      <workItem from="1702749078116" duration="4349000" />
+      <workItem from="1702749078116" duration="4418000" />
+      <workItem from="1703494936469" duration="1505000" />
+      <workItem from="1703496459045" duration="12409000" />
     </task>
     <task id="LOCAL-00001" summary="Java Programming Basics - SoftUni">
       <option name="closed" value="true" />
@@ -201,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702750396027</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Java Programming Basics - SoftUni">
+      <option name="closed" value="true" />
+      <created>1702753808775</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702753808775</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
